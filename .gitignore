@@ -1,0 +1,10 @@
+# Ignore the zip file
+*.zip
+
+# Ignore the extracted CSVs
+test.csv
+train.csv
+sample_submission.csv
+
+# ignore the fix notebooks file
+fix_notebooks.ipynb
