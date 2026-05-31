@@ -1,6 +1,7 @@
+# Executive Summary: Credit Card Fraud Detection
+
 👉 **[Click here to view the complete Project Case Study with all code and visual plots](Kaggle%20Credit%20Card%20Fraud.md)**
 
-# Executive Summary: Credit Card Fraud Detection
 Core Objective: Develop a high-recall machine learning model to identify fraudulent transactions within a highly imbalanced dataset (0.17% fraud rate)
 
 ### The Challenge
