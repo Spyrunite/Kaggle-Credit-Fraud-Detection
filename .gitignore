@@ -8,3 +8,9 @@ sample_submission.csv
 
 # ignore the fix notebooks file
 fix_notebooks.ipynb
+
+# ignore the checkpoint folder
+.ipynb_checkpoints/
+
+# ignore the ipynb file because markdown outputs better
+Kaggle Credit Card Fraud.ipynb
